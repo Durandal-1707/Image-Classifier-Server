@@ -1,5 +1,6 @@
 flask==3.0.3
 opencv-python==4.7.0.72
+sklearn==1.2.0
 PyWavelets==1.4.1
 seaborn==0.12.1
 joblib==1.2.0
